@@ -12,24 +12,6 @@ A comprehensive **Power BI Business Intelligence project** analyzing Spotify art
 ### Main Dashboard
 ![Spotify Artist Analysis Dashboard](spotify_dashboard.jpg)
 
-### KPIs
-![KPIs](spotify_kpisjpg.PNG)
-
-### Comparison Analysis
-![Comparison](spotify_comparisionPNG.PNG)
-
-### Composition Analysis
-![Composition](spotify_compositionPNG.PNG)
-
-### Trend Analysis
-![Trend](spotify_trendPNG.PNG)
-
-### Geographical Analysis
-![Geographical](spotify_geoPNG.PNG)
-
-### Statistical Analysis
-![Statistical](spotify_statisticspg.PNG)
-
 ---
 
 ## 📁 Project Files
